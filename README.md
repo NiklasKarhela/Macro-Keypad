@@ -11,10 +11,10 @@ Components for the project:
 4. Keycaps:
      - 3D printed
 6. Diods (1N4148):
-     - 
+     - ???
 8. PCB
-     -Design using kiCad, then printed att Aalto university
-9. Case:
-      - 3D printed
+     - Design using kiCad, then printed att Aalto university
+10. Case:
+     - 3D printed
 11. USB cabel:
       - Owned
