@@ -7,7 +7,7 @@ Components for the project:
 1. Micro controller
      - Raspberry Pi Pico
 3. Switches:
-     - Cherry switches 6-9 pcs
+     - Switches 6 pcs: https://www.maxgaming.com/en/switches/milky-yellow-pro-linear-switch 
      - Rotory encoder EN11: https://partco.fi/tuote/enkooderi-kiertokytkin-spst-kytkimell%C3%A4-4935
 4. Keycaps:
      - 3D printed
